@@ -1,0 +1,62 @@
+body{
+    border-top: 5px solid  black ;
+    border-bottom: 5px solid  black ;
+    text-align: center;
+    color: black;
+}
+
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.port {
+    color: black;
+    font-weight: lighter;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+}
+
+a::after{
+    color: black;
+}
+.name{
+    text-transform: uppercase;
+}
+.textAllign-left{
+    text-align: left;
+    margin: 0px 400px;
+}
+.person{
+    padding: 10px;
+    border: 1px solid black;
+    height: 150px;
+    width: 150px;
+}
+
+
+.contint{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin: 0px 380px;
+    text-align: left;
+}
+
+ul{
+    padding-left: 35px;
+    list-style: square;
+    padding-bottom: 10px;
+}
+
+
+.discription{
+    margin-top: 5px;
+}
+
+.imgP{
+    padding: 3px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+}
+
